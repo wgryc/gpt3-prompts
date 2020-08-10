@@ -11,3 +11,10 @@ Some variations on the above...
 ```
 HTML code that shows a search bar, submit button, and image.
 ```
+
+The code below seems to predictably generate HTML code. Note that this could be a good introduction to 'context stuffing', too.
+
+```
+HTML and CSS code for a search engine home page.
+<html><head>
+```
