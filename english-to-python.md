@@ -1,3 +1,5 @@
+You can use the same prompt settings as the Playground's *English to French* option; just change the *French* settings to *Python* in the form, and enable line breaks in the output.
+
 ```
 English: print "hi there"
 Python: print('hi there')
