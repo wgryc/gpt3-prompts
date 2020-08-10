@@ -9,3 +9,4 @@ These are prompts and examples to help with demoing GPT-3.
 * [Classify Content](/movie-reviews.md) -- classify movie reviews (and get probability estimates).
 * [Tweets](/tweet-prompts.md) -- use Tweets to generate a Q&A session with a specific person.
 * [Stocks](/logic-stocks.md) -- answer questions about stocks (and associated metrics)... or fail to do so.
+* [Knowledge Graphs](/knowledge-graph.md) -- build entity-level relationships from headlines.
