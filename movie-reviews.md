@@ -14,3 +14,5 @@ Out: Positive
 
 In: I'm confused about how this movie ended and I wouldn't recommend it to anyone.
 ```
+
+Note that showing the estimates probabilities above could also be helpful and interesting.
