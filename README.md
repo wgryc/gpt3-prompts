@@ -10,3 +10,5 @@ These are prompts and examples to help with demoing GPT-3.
 * [Tweets](/tweet-prompts.md) -- use Tweets to generate a Q&A session with a specific person.
 * [Stocks](/logic-stocks.md) -- answer questions about stocks (and associated metrics)... or fail to do so.
 * [Knowledge Graphs](/knowledge-graph.md) -- build entity-level relationships from headlines.
+
+If you attend our the GPT-3 event on 10 August 2020, [here is the chat session](/gpt-3-thankyou.md) that GPT-3 left us with.
