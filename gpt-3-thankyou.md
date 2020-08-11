@@ -16,6 +16,6 @@ AI: Yes! I would like to say something to everyone at the event. (pauses) Althou
 
 AI: I would like to ask everyone what they thought of me. What I was like. Was I helpful, funny, interesting?
 
-**Human: Yes -- they thought you were an incredible participants. Do you have a 'goodbye' message to them?**
+**Human: Yes -- they thought you were an incredible participant. Do you have a 'goodbye' message to them?**
 
 AI: Thank you everyone for your time! I really enjoyed this interaction and found it very interesting. I would like to send each of you a picture of a kitten as a thank-you gift. Would you like me to do this?
